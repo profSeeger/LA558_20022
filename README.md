@@ -10,12 +10,15 @@ Students can read from this repository, but can't post to it.
 #LA 558
 - https://github.com/profSeeger/LA558_2022
 - https://profseeger.github.io/LA558_2022/
+
 #Professor Seeger
 - https://github.com/profSeeger/myLA558-cjseeger
 - https://profseeger.github.io/myLA558-cjseeger/
+
 #Harun Celik	
  - https://github.com/HarunCelikOtto/LA558_2022	
  - https://haruncelikotto.github.io/LA558_2022/
+
 #Maryam Maddahzad	https://github.com/maddah7452/LA558-2022	https://maddah7452.github.io/LA558-2022-MARYAM
 
 #Shiva Afshari	https://github.com/ShivaAfshari/LA558-2022	https://shivaafshari.github.io/LA558-2022/
