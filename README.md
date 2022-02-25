@@ -48,8 +48,8 @@ Students can read from this repository, but you can't post to it.
 - https://oyelekeoyeyemi.github.io/LA558_2022/
 
 ## Yusuf Tayo	
-- https://github.com/tayoyusuf/LA558_2022	
-- https://tayoyusuf.github.io/LA558_2022/
+- https://github.com/tayoyusuf/LA558_2022_YUSUF
+- https://tayoyusuf.github.io/LA558_2022_YUSUF
 
 ## Sarah Yeo	
 - https://github.com/shyeo31/LA558_2022	
