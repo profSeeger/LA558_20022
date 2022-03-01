@@ -3,7 +3,7 @@ This is Professor Seeger's course repository for Spring 2022 Landscape Architect
   
 In this repo you will find files to support the exercises and assignments  
 along with other course materials. This repo is updated prior to each lecture.  
-Students can read from this repository, but can't post to it.
+Students can read from this repository, but you can't post to it.
 
 
 # Class Repos and GitHub Pages
@@ -48,8 +48,8 @@ Students can read from this repository, but can't post to it.
 - https://oyelekeoyeyemi.github.io/LA558_2022/
 
 ## Yusuf Tayo	
-- https://github.com/tayoyusuf/LA558_2022	
-- https://tayoyusuf.github.io/LA558_2022/
+- https://github.com/tayoyusuf/LA558_2022_YUSUF
+- https://tayoyusuf.github.io/LA558_2022_YUSUF
 
 ## Sarah Yeo	
 - https://github.com/shyeo31/LA558_2022	
