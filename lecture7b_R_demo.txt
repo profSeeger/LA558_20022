@@ -1,0 +1,90 @@
+## ----install-packages---------------------------------------------
+install.packages(c("tidycensus", "tidyverse", "plotly"))
+library(tidycensus)
+library(tigris)
+library(tidyverse)
+library(sf)
+options(tigris_use_cache = TRUE)
+
+## ----api-key------------------------------------------------------
+census_api_key("Your Key here", overwrite=TRUE)
+
+
+## ----decennial------------------------------------------------------------------
+pop10 <- get_decennial(
+    geography = "state",
+    variables = "P001001"
+)
+
+pop10 ##View the variable
+
+
+## ----Table of ACS variables-------------------------------------------------------------
+## ## https://walker-data.com/tidycensus/reference/load_variables.html
+v18 <- load_variables(2018, "acs5", cache = TRUE)
+v19 <- load_variables(2019, "acs5", cache = TRUE)
+
+View(v19)
+
+d10 <- load_variables(2010, "sf1", cache = TRUE)
+##d20 <- load_variables(2020, "sf1", cache = TRUE)
+
+
+
+## ----Poverty Data from ACS for all States-------------------------------------------------------------
+povertyACS5_19 <- get_acs(
+    geography = "state",
+    variables = "B17004_002",
+    year = 2019
+)
+ 
+povertyACS5_19
+
+View(povertyACS5_19)
+
+
+
+## ----Poverty Data from ACS for just Iowa-------------------------------------------------------------
+povertyACS5_IA19 <- get_acs(
+    geography = "state",
+    state = "IA",
+    variables = "B17004_002",
+    year = 2019
+)
+
+povertyACS5_IA19
+
+
+## ----County Poverty Data from ACS for just Iowa-------------------------------------------------------------
+
+ACS_countyPoverty <- get_acs(
+    geography = "county",
+    state = "IA",
+    variables = "B17004_002",
+    year = 2019
+)
+
+ACS_countyPoverty
+
+
+write.csv(ACS_countyPoverty,'ACS_countyPoverty.csv')  ##saves table as a CSV
+
+
+## ----County Poverty Data from ACS for just Iowa As a GIS File---------------------------------------------
+
+
+
+ACS_countyPovertyGIS <- get_acs(
+    geography = "county",
+    state = "IA",
+    variables = "B17004_002",
+    year = 2019,
+    geometry = TRUE)
+
+head(ACS_countyPovertyGIS)
+
+## ----write-data-to-files--------
+st_write(ACS_countyPovertyGIS, "ACS_countyPovertyGIS.shp")
+
+
+st_write(ACS_countyPovertyGIS, "ACS_countyPovertyGIS.geojson")
