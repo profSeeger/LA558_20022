@@ -16,19 +16,36 @@ IowaMedianIncome <- get_acs(state = "IA",
                             variables = "B19013_001", 
                             geometry = TRUE)
 head(IowaMedianIncome)
-write.csv(IowaMedianIncome,"IowaMedianIncome.csv")
 st_write(IowaMedianIncome,"IowaMedianIncome.geojson")
+
+#Same as above but no Geometry
+IowaMedianIncome <- get_acs(state = "IA", 
+                            geography = "county", 
+                            variables = "B19013_001", 
+                            geometry = FALSE)
+head(IowaMedianIncome)
+write.csv(IowaMedianIncome,"IowaMedianIncome.csv")
+
+
 
 
 
 #The following example shows median household income from the 
-#2015-2019 ACS for Census tracts in Boone County, Iowa
+#2015-2019 ACS for Townships in Boone County, Iowa
 BooneMedianIncome <- get_acs(state = "IA", 
                              county = "Boone", 
                              geography = "county subdivision", 
                              variables = "B19013_001", 
                              geometry = TRUE)
 head(BooneMedianIncome)
-write.csv(BooneMedianIncome,"BooneMedianIncome.csv")
 st_write(BooneMedianIncome,"BooneMedianIncome.geojson")
 
+
+#Same as above but no Geometry
+BooneMedianIncome <- get_acs(state = "IA", 
+                             county = "Boone", 
+                             geography = "county subdivision", 
+                             variables = "B19013_001",
+                             geometry = FALSE)
+head(BooneMedianIncome)
+write.csv(BooneMedianIncome,"BooneMedianIncome.csv")
