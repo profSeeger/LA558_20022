@@ -23,6 +23,9 @@ Students can read from this repository, but you can't post to it.
 ## Maryam Maddahzad	
 - https://github.com/maddah7452/LA558-2022
 - https://maddah7452.github.io/LA558-2022-MARYAM
+- Final Project Abstract: This study intends to contribute to the overall knowledge base about how the form of urban spaces affects the crime rate (objective safety) by analyzing Chicago's urban intersection. For this purpose, we focus on the top ten percent of least safe urban blocks intersection and collect a set of significant attributes (such as the height of the buildings, the width of the streets, and tree canopies) associated with morphological contexts of the intersections in the 50-meter buffer area of 3986 intersections in Chicago. Two primary regression analyses are used to assess the correlation of morphologic features and the objective safety: (1): Linear Least Squares Methods (Ordinary Least Squares and Weighted Linear regression model); (2) Cluster and Factor Analysis. The results will be presented in interactive maps and graphics using Tableau.
+This project is in line with my thesis project subject.
+
 
 ## Shiva Afshari	
 - https://github.com/ShivaAfshari/LA558-2022	
@@ -44,6 +47,7 @@ Students can read from this repository, but you can't post to it.
 ## Vania Komegi	
 - https://github.com/VaniaKomegi/LA558_2022.git
 - https://vaniakomegi.github.io/LA558_2022/
+- Final Project Abstract: The project focuses on the exported goods from the United States of America to the rest of the world. Soybeans, meat, poultry, and crude oil are some of the top US goods exported. The map shows the area of the production of these goods and the employment rate near these areas. 
 
 ## Oyeyemi Oyeleke	
 - https://github.com/oyelekeoyeyemi/LA558_2022	
@@ -60,6 +64,7 @@ Students can read from this repository, but you can't post to it.
 ## Emily Huston	
 - https://github.com/erhuston/LA558_2022	
 - https://erhuston.github.io/LA558_2022/
+- Final Project Abstract: The Consumption of Dairy Milk has decreased by 40% over the past few decades in the United States, while Plant-Based Alternatives are on the rise. This decline has impacted dairy farmers and those that work for them, but cow’s milk still remains the dominant milk in American diets. Where are these changes most noticeable in the U.S. and which states are leading the charge in switching to dairy milk alternatives?
 
 ## Mona Kazemian	
 - https://github.com/MonaKazemian/LA558_2022	
