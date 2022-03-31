@@ -35,14 +35,17 @@ This project is in line with my thesis project subject.
 ## Kelsey Zimmerman	
 - https://github.com/kelseyzimmerman/LA558_2022	
 - https://kelseyzimmerman.github.io/LA558_2022/
+- Final Project Abstract: This project will seek to track changes at the Ames Chemical Disposal Site dating back to its inception in  from changes in its soil studies and watershed to highlighting unique flora found at the site Using web mapping it represents an attempt to consolidate and modernize the scant cluttered data around a site important for its historical past ecological present and future The ultimate objective of the project will be to create and compile interactive maps and charts created with R Javascript/Leaflet/etc historical documentation and photographs of the modern state of the site into an ArcGIS StoryMap
 
 ## Anne Wurtenberger	
 - https://github.com/acwurt/LA558_2022/	
 - https://acwurt.github.io/LA558_2022/
+- Final Project Abstract: Chernobyl Disaster, the historical Ukrainian tragedy of April 26, 1986, was the memorable event of the Vladimir Ilyich Lenin Nuclear Power Plant Reactor 4 explosion, known as the largest nuclear accident of both the 20th century and of all history. This disaster led to the displacement of around 300,000 people and resulted in an estimated range of 4,000 to 93,000 deaths. Because of this event’s notoriety and fear bias many people do not understand what exactly happened, the effects from the disaster, or how this relates to and has impacted nuclear power today. Through the use of web mapping, data visualization, and literary review, this project presents both facts and a timeline of events that took place in Chernobyl, Ukraine and the rest of the globe on April 26, 1986. The conclusion then briefly discusses modern nuclear power technologies, locations, and safety in relation to the events of the notorious Chernobyl Disaster.
 
 ## Yilun Yang	
 - https://github.com/yiluny217/LA558_2022
 - https://yiluny217.github.io/LA558_2022/
+- Final Project Abstract: Parking shortage has been one of the biggest challenges faced by truck drivers, fleet managers and owner operators for many years The Truck Parking Information Management Systems (TPIMS) project is an innovative multistate effort undertaken by members of the Mid America Association of State Transportation Officials (MAASTO) to address critical truck parking issues affecting regional economic competitiveness and the national freight network's safety and efficiency. To evaluate the performance of the Iowa TPIMS, utilization, demand cycle and reliability are developed and visualized in a dashboard through multidimensional aggregation of parking flow data. Such intuitive tools and results can help agencies evaluate the system and better understand the large dataset to make informed decisions.
 
 ## Vania Komegi	
 - https://github.com/VaniaKomegi/LA558_2022.git
