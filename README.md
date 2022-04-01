@@ -35,7 +35,7 @@ This project is in line with my thesis project subject.
 ## Kelsey Zimmerman	
 - https://github.com/kelseyzimmerman/LA558_2022	
 - https://kelseyzimmerman.github.io/LA558_2022/
-- Final Project Abstract: This project will seek to track changes at the Ames Chemical Disposal Site dating back to its inception in  from changes in its soil studies and watershed to highlighting unique flora found at the site Using web mapping it represents an attempt to consolidate and modernize the scant cluttered data around a site important for its historical past ecological present and future The ultimate objective of the project will be to create and compile interactive maps and charts created with R Javascript/Leaflet/etc historical documentation and photographs of the modern state of the site into an ArcGIS StoryMap
+- Final Project Abstract: 
 
 ## Anne Wurtenberger	
 - https://github.com/acwurt/LA558_2022/	
