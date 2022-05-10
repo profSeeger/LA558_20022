@@ -3,7 +3,6 @@ This is the course repository for the Spring 2022 offering of Landscape Architec
 In this repo you will find the files to support the exercises, assignments and other course materials. This repo is updated prior to each lecture so student should refresh it regularly. Students can read from this repository, but can't post to it, instead they 
 should initially clone this repo to their local computer and then refresh/pull updates prior to each lecture. In addition to this repo, each student will have their own private repo where they will post their assignments and final projects. Following is a list of each student's repo and a brief description of their final project.
 
-# LA 558 Class Repos and GitHub Pages
 - https://github.com/profSeeger/LA558_2022
 - https://profseeger.github.io/LA558_2022/
 
