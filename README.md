@@ -1,10 +1,8 @@
 # LA 558 Web Mapping and Data Visualization
-This is the course repository for Spring 2022 Landscape Architecture 558 course.
+This is the course repository for the Spring 2022 offering of Landscape Architecture 558: Introduction to Web Mapping
   
-In this repo you will find files to support the exercises and assignments  
-along with other course materials. This repo is updated prior to each lecture.  
-Students can read from this repository, but you can't post to it.
-Students should clone this repo to their local computer and then refresh/pull updates prior to each lecture.
+In this repo you will find the files to support the exercises, assignments and other course materials. This repo is updated prior to each lecture so student should refresh it regularly. Students can read from this repository, but can't post to it, instead they 
+should initially clone this repo to their local computer and then refresh/pull updates prior to each lecture. In addition to this repo, each student will have their own private repo where they will post their assignments and final projects. Following is a list of each student's repo and a brief description of their final project.
 
 # LA 558 Class Repos and GitHub Pages
 - https://github.com/profSeeger/LA558_2022
