@@ -55,7 +55,7 @@ This project is in line with my thesis project subject.
 - https://github.com/tayoyusuf/LA558_2022_YUSUF
 - https://tayoyusuf.github.io/LA558_2022_YUSUF
 - Final Project: 
-- Final Project Abstract: 
+- Final Project Abstract: Social vulnerability exposes the less privileged social group to natural hazards, making them susceptible to undesirable physical and social wellbeing, including death, injury, and loss of livelihood. In hazardous events, whether a natural disaster like flooding, tornado, landslide, disease outbreak or anthropogenic event such as a harmful chemical spill, the effect varies among different socioeconomic groups. It is expedient for cities, communities, and policymakers to be prepared and proactive in response and plan, especially among the vulnerable social class. In this background, this study tends to examine the socioeconomic index of residence in Iowa.
 
 ## Anne Wurtenberger	
 - https://github.com/acwurt/LA558_2022/	
