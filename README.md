@@ -25,7 +25,7 @@ Professor Seeger
 ## Harun Celik	
  - GitHub Files: https://github.com/HarunCelikOtto/LA558_2022	
  - GitHub Web Portfolio: https://haruncelikotto.github.io/LA558_2022/
- - Final Project: https://haruncelikotto.github.io/LA558_2022/web/FinalProject/Index.html
+ - Final Project: [19th Century Ottoman Diseases](https://haruncelikotto.github.io/LA558_2022/web/FinalProject/Index.html)
  - Final Project Abstract: To better understand disease, scholars reviewing the coronavirus pandemic have initiated a movement around the world to map and trace the network of disease across the globe. These visualizations have helped bring new perspectives to scholarly ideas regarding disease and their mobility. The goal of this project is to document the mobility of disease networks in the late Ottoman Empire of the 19th century. By visualizing the origins of pandemics like cholera, plague and animal diseases, this project aims to contribute to the growing body of health and medicinal history in the Ottoman Empire and its extent in the Middle East.
 
 ## Emily Huston	
