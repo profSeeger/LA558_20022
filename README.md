@@ -16,16 +16,16 @@ Professor Seeger
 
 
 ## Shiva Afshari	
-- GitHub files: https://github.com/ShivaAfshari/LA558-2022	
-- GitHub home site/Web Portfolio: https://shivaafshari.github.io/LA558-2022/
+- GitHub Files: https://github.com/ShivaAfshari/LA558-2022	
+- GitHub Web Portfolio: https://shivaafshari.github.io/LA558-2022/
 - Final Project: 
 - Final Project Abstract: The matter of accessibility to the internet, particularly in the modern era, is an effective factor in community development. However, since ancient times, some races and ages have been deprived of equal access to urban facilities, resulting in negative impacts on their lives. The interactive map will show how much percentage of people of different races and ages have access to the internet in all the states of America.
 
 
 ## Harun Celik	
- - https://github.com/HarunCelikOtto/LA558_2022	
- - https://haruncelikotto.github.io/LA558_2022/
- - Final Project: 
+ - GitHub Files: https://github.com/HarunCelikOtto/LA558_2022	
+ - GitHub Web Portfolio: https://haruncelikotto.github.io/LA558_2022/
+ - Final Project: https://haruncelikotto.github.io/LA558_2022/web/FinalProject/Index.html
  - Final Project Abstract: To better understand disease, scholars reviewing the coronavirus pandemic have initiated a movement around the world to map and trace the network of disease across the globe. These visualizations have helped bring new perspectives to scholarly ideas regarding disease and their mobility. The goal of this project is to document the mobility of disease networks in the late Ottoman Empire of the 19th century. By visualizing the origins of pandemics like cholera, plague and animal diseases, this project aims to contribute to the growing body of health and medicinal history in the Ottoman Empire and its extent in the Middle East.
 
 ## Emily Huston	
