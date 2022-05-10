@@ -1,8 +1,7 @@
+# LA 558 Class Repos and GitHub Pages
 This is the course repository for the Spring 2022 offering of Landscape Architecture 558: Introduction to Web Mapping.
   
 This repo is read only and contains files to support the lecture, exercises, assignments and other course materials. Students should initially clone this repo to their local computer and then refresh/pull updates prior to each lecture. Thos materails can then be copied into their own repo which will be used to share their work. 
-
-# LA 558 Class Repos and GitHub Pages
 
 Following is a list of the instructor's repos along with each student's repo and final project description.
 
