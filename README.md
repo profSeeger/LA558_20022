@@ -16,22 +16,22 @@ Professor Seeger
 
 
 ## Shiva Afshari	
-- GitHub Files: https://github.com/ShivaAfshari/LA558-2022	
-- GitHub Web Portfolio: https://shivaafshari.github.io/LA558-2022/
+- [GitHub Files](https://github.com/ShivaAfshari/LA558-2022)
+- [GitHub Web Portfolio](https://shivaafshari.github.io/LA558-2022/)
 - Final Project: [The relation between race and internet inaccessibility in the U. S.](https://shivaafshari.github.io/LA558-2022/Web/final%20project/finalproject.html)
 - Final Project Abstract: The matter of accessibility to the internet, particularly in the modern era, is an effective factor in community development. However, since ancient times, some races and ages have been deprived of equal access to urban facilities, resulting in negative impacts on their lives. The interactive map will show how much percentage of people of different races and ages have access to the internet in all the states of America.
 
 
 ## Harun Celik	
- - GitHub Files: https://github.com/HarunCelikOtto/LA558_2022	
- - GitHub Web Portfolio: https://haruncelikotto.github.io/LA558_2022/
+ - [GitHub Files](https://github.com/HarunCelikOtto/LA558_2022)
+ - [GitHub Web Portfolio](https://haruncelikotto.github.io/LA558_2022/)
  - Final Project: [19th Century Ottoman Diseases](https://haruncelikotto.github.io/LA558_2022/web/FinalProject/Index.html)
  - Final Project Abstract: To better understand disease, scholars reviewing the coronavirus pandemic have initiated a movement around the world to map and trace the network of disease across the globe. These visualizations have helped bring new perspectives to scholarly ideas regarding disease and their mobility. The goal of this project is to document the mobility of disease networks in the late Ottoman Empire of the 19th century. By visualizing the origins of pandemics like cholera, plague and animal diseases, this project aims to contribute to the growing body of health and medicinal history in the Ottoman Empire and its extent in the Middle East.
 
 ## Emily Huston	
-- https://github.com/erhuston/LA558_2022	
-- https://erhuston.github.io/LA558_2022/
-- Final Project: 
+- [GitHub Files](https://github.com/erhuston/LA558_2022)
+- [GitHub Web Portfolio](https://erhuston.github.io/LA558_2022/)
+- Final Project: [The Temporary Population of National Parks](https://erhuston.github.io/LA558_2022/web/finalproject.html)
 - Final Project Abstract: The United States is home to over 400 National Parks scattered around the country. These parks each come with a unique landscape and story that bring millions of people to them each year. With each park offering different sights and services, this project aims to discover which parks are the most popular and what they have to offer.
 
 ## Vania Komegi	
