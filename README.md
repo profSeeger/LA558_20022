@@ -32,7 +32,7 @@ Students should clone this repo to their local computer and then refresh/pull up
 - https://github.com/erhuston/LA558_2022	
 - https://erhuston.github.io/LA558_2022/
 - Final Project: 
-- Final Project Abstract: The Consumption of Dairy Milk has decreased by 40% over the past few decades in the United States, while Plant-Based Alternatives are on the rise. This decline has impacted dairy farmers and those that work for them, but cow’s milk still remains the dominant milk in American diets. Where are these changes most noticeable in the U.S. and which states are leading the charge in switching to dairy milk alternatives?
+- Final Project Abstract: The United States is home to over 400 National Parks scattered around the country. These parks each come with a unique landscape and story that bring millions of people to them each year. With each park offering different sights and services, this project aims to discover which parks are the most popular and what they have to offer.
 
 ## Vania Komegi	
 - https://github.com/VaniaKomegi/LA558_2022.git
