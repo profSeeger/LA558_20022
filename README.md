@@ -18,7 +18,7 @@ Professor Seeger
 ## Shiva Afshari	
 - [GitHub Files](https://github.com/ShivaAfshari/LA558-2022)
 - [GitHub Web Portfolio](https://shivaafshari.github.io/LA558-2022/)
-- Final Project: [The relation between race and internet inaccessibility in the U. S.](https://shivaafshari.github.io/LA558-2022/Web/final%20project/finalproject.html)
+- Final Project: [The relation between race and internet inaccessibility in the U. S.](https://shivaafshari.github.io/LA558-2022/Web/final%20project/finalprojectedited.html)
 - Final Project Abstract: The matter of accessibility to the internet, particularly in the modern era, is an effective factor in community development. However, since ancient times, some races and ages have been deprived of equal access to urban facilities, resulting in negative impacts on their lives. The interactive map will show how much percentage of people of different races and ages have access to the internet in all the states of America.
 
 
