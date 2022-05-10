@@ -1,15 +1,20 @@
-This is the course repository for the Spring 2022 offering of Landscape Architecture 558: Introduction to Web Mapping
+This is the course repository for the Spring 2022 offering of Landscape Architecture 558: Introduction to Web Mapping.
   
-In this repo you will find the files to support the exercises, assignments and other course materials. This repo is updated prior to each lecture so student should refresh it regularly. Students can read from this repository, but can't post to it, instead they 
-should initially clone this repo to their local computer and then refresh/pull updates prior to each lecture. In addition to this repo, each student will have their own private repo where they will post their assignments and final projects. Following is a list of each student's repo and a brief description of their final project.
+This repo is read only and contains files to support the lecture, exercises, assignments and other course materials. Students should initially clone this repo to their local computer and then refresh/pull updates prior to each lecture. Thos materails can then be copied into their own repo which will be used to share their work. 
 
+# LA 558 Class Repos and GitHub Pages
+
+Following is a list of the instructor's repos along with each student's repo and final project description.
+
+Course
 - https://github.com/profSeeger/LA558_2022
 - https://profseeger.github.io/LA558_2022/
 
-## Professor Seeger
+Professor Seeger
 - https://github.com/profSeeger/myLA558-cjseeger
 - https://profseeger.github.io/myLA558-cjseeger/
----
+
+
 
 ## Shiva Afshari	
 - GitHub files: https://github.com/ShivaAfshari/LA558-2022	
