@@ -43,7 +43,7 @@ Professor Seeger
 ## Maryam Maddahzad	
 - [GitHub Files](https://github.com/maddah7452/LA558-2022)
 - [GitHub Web Portfolio](https://maddah7452.github.io/LA558-2022-MARYAM)
-- Final Project: 
+- Final Project: [Study on correlation between safety and urban form in Chicago](https://public.tableau.com/app/profile/seyedehmaryam.maddahzad/viz/FinalProject-LA558-MaryamMaddahzad-StudyoncorrelationbetweensafetyandurbanforminChicago/Story1)
 - Final Project Abstract: This study intends to contribute to the overall knowledge base about how the form of urban spaces affects the crime rate (objective safety) by analyzing Chicago's urban intersection. For this purpose, we focus on the top ten percent of least safe urban blocks intersection and collect a set of significant attributes (such as the height of the buildings, the width of the streets, and tree canopies) associated with morphological contexts of the intersections in the 50-meter buffer area of 3986 intersections in Chicago. Two primary regression analyses are used to assess the correlation of morphologic features and the objective safety: (1): Linear Least Squares Methods (Ordinary Least Squares and Weighted Linear regression model); (2) Cluster and Factor Analysis. The results will be presented in interactive maps and graphics using Tableau.
 This project is in line with my thesis project subject.
 
